@@ -1,0 +1,1 @@
+This repository contains notes, lab experiments, and past exam papers for second-year engineering. Use the organized folders to find the materials you need, and feel free to contribute additional resources.
